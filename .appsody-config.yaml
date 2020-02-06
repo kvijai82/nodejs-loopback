@@ -1,0 +1,2 @@
+project-name: nodejs-loopback
+stack: docker.io/appsody/nodejs-loopback:0.2
